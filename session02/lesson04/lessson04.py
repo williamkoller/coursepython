@@ -22,3 +22,15 @@ type casting
 
 print('10', type('10'), type(int('10')))
 
+# Nome: string
+print('William', type('William'))
+
+# Idade: int
+print(32, type(32))
+
+# Altura: float
+print(1.85, type(1.85))
+
+# É maior de idade
+print(32 > 18, type(32 > 18))
+
